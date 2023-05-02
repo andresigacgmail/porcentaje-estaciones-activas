@@ -1,0 +1,6 @@
+
+li:hover {
+    cursor: pointer;
+    background-color: aquamarine;
+    color: blue;
+}
